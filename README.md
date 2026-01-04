@@ -8,11 +8,11 @@
 
     sudo systemctl status tinyproxy
 
-## Rodar/Para no momento
+## Rodar/Parar no momento
 
-    sudo systemctl start ttinyproxy
+    sudo systemctl start tinyproxy
     
-    sudo systemctl stop ttinyproxy
+    sudo systemctl stop tinyproxy
 
 ## Habilitar/Desabilitar durante inicialização
 
